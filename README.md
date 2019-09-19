@@ -34,17 +34,17 @@ The most straightforward way to install this software is via the Conda environme
 
 Date         | Topic                                             | Notes
 -------------|---------------------------------------------------|----------------------------------:
+Sep. 24 & 25 | Session 0: Installation Help                      | Optional Session  
 ​            | **_Part 1: Python Essentials_**                   |​
-Sep. 24 & 25 | Overview, 'Hello World!,' variables and assignment|  
-Oct. 1 & 2   | Conditionals, functions                           |**Wednesday section in Newton Lab**  
-Oct. 8 & 9   | Loops, lists, tuples, dictionaries                |**Wednesday section in Newton Lab**  
-Oct. 15 & 16 | Objects, methods, modules                         |  
-Oct. 22 & 23 | Package management via PiP and Conda              |  
+Oct. 1 & 2   | Overview, 'Hello World!,' variables and assignment|**Wednesday section in Newton Lab**  
+Oct. 8 & 9   | Conditionals, functions                           |**Wednesday section in Newton Lab**  
+Oct. 15 & 16 | Loops, lists, tuples, dictionaries                |  
+Oct. 22 & 23 | Objects, methods, modules                         |  
+Oct. 29 & 30 | Package management via PiP and Conda              |**Tuesday section in Newton Lab**  
 ​            | **_Part 2: Useful Python Packages_**              |​
-Oct. 29 & 30 | Efficient Python programming with NumPy           |**Tuesday section in Newton Lab**  
-Nov. 5 & 6   | Plotting with Matplotlib                          |**Wednesday section in Newton Lab**  
-Nov. 12 & 13 | H5Py                                              |
-Nov. 19 & 20 | TBD                                               |**Tuesday section in Newton Lab**  
+Nov. 5 & 6   | Efficient Python programming with NumPy           |**Wednesday section in Newton Lab**  
+Nov. 12 & 13 | Plotting with Matplotlib                          |
+Nov. 19 & 20 | H5Py                                              |**Tuesday section in Newton Lab**  
 Nov. 26 & 27 | TBD                                               |
 
 
