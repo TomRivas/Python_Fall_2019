@@ -28,7 +28,7 @@ This workshop series will provide a brief overview of Python programming and som
 ### Prerequisites
 The lessons in this course are interactive in nature.  In order to participate fully, you will need a laptop with a working Python installation and the following Python packages installed:  `NumPy`, `Matplotlib`, `H5Py`.  
 
-The most straightforward way to install this software is via the Conda environment manager. Please refer to the `software_installation.md` file in this repository for instructions on installing Conda, Python, and the necessary packages.  If you need one-on-one help with the installation process, please drop by the optional installation session.  Alternatively, feel free to send me an email, and we can set up a time to meet with either Daniel or myself.  
+The most straightforward way to install this software is via the Conda environment manager. Please refer to the `SoftwareInstallation.md` file in this repository for instructions on installing Conda, Python, and the necessary packages.  If you need one-on-one help with the installation process, please drop by the optional installation session.  Alternatively, feel free to send me an email, and we can set up a time to meet with either Daniel or myself.  
 
 ### Schedule
 
