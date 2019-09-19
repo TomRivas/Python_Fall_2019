@@ -24,7 +24,7 @@ Windows, Mac, and Linux installers are provided, and we have tested all three 64
        python      
        ```
        You will be taken to an interactive Python prompt, and you will see a message indicating:   
-       `Python 3.x.y | Intel Corporation |`.  
+       `Python 3.x.y | Intel Corporation |`  
        
        *__Note:__ If you see Python 2.x.y, you have installed the wrong version of python. Rerun the above command and make sure to say "python=3".*
     
