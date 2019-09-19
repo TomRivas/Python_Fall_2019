@@ -40,7 +40,7 @@ Oct. 1/2   | Conditionals, functions                           |**Wednesday sect
 Oct. 8/9   | Loops, lists, tuples, dictionaries                |**Wednesday section in Newton Lab**  
 Oct. 15/16 | Objects, methods, modules                         |  
 Oct. 22/23 | Package management via PiP and Conda              |  
-​          | **_Part2: Useful Python Packages_**               |​
+​          | **_Part 2: Useful Python Packages_**               |​
 Oct. 29/30 | Efficient Python programming with NumPy           |**Tuesday section in Newton Lab**  
 Nov. 5/6   | Plotting with Matplotlib                          |**Wednesday section in Newton Lab**  
 Nov. 12/13 | H5Py                                              |
