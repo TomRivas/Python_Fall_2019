@@ -22,7 +22,9 @@ We will be using the Conda environment management system, along with Intel's opt
     2. ```bash 
        python      
        ```
-       You will be taken to an interactive Python prompt, and you should see a message indicating Python 3.x.y | Intel Corporation |. *__Note:__ if you see Python 2.x.y, you have installed the wrong version of python. Rerun the above command and make sure to say "python=3".*
+       You will be taken to an interactive Python prompt, and you will see a message indicating:   
+       `Python 3.x.y | Intel Corporation |`.  
+       *__Note:__ If you see Python 2.x.y, you have installed the wrong version of python. Rerun the above command and make sure to say "python=3".*
     
     3. ```python
        test
