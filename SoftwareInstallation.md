@@ -1,7 +1,8 @@
-## Software Installation
+## Software Installation Instructions
 We will be using the Conda environment management system, along with Intel's optimized Python distribution for this course. Research-oriented work flows can often involve multiple Python packages, and is not uncommon that a single researcher to work on multiple projects. As a result, managing disparate package versions and combinations becomes a necessity. **Conda** is a widely used tool that helps to manage such different Python package combinations. Using Conda, we will install Intel’s Python distribution, a set of useful Python packages that have been optimized by Intel for use on Intel processors. Intel’s Python distribution is free to use. Due to the significant performance enhancements offered by the Intel Python distribution, it is strongly recommended that you use it when working on Intel systems. The following steps should guide you through the installation process:
 
-1. (You may skip this step if you already have Anaconda installed) Install Miniconda by choosing the appropriate Python 3.6 installer from this link: https://conda.io/miniconda.html Windows, Mac, and Linux installers are provided, and we have tested all three 64-bit versions. Note that if you aren’t sure whether you need 64- or 32-bit functionality, you almost certainly want the 64-bit version. Once you’ve run the installation script, proceed to step 2.
+1. (You may skip this step if you already have Anaconda installed) Install Miniconda by choosing the appropriate **Python 3.7** installer from this link: https://conda.io/miniconda.html  
+Windows, Mac, and Linux installers are provided, and we have tested all three 64-bit versions. Note that if you aren’t sure whether you need 64- or 32-bit functionality, you almost certainly want the 64-bit version. Once you’ve run the installation script, proceed to step 2.
 
 2. Now that you have Conda installed, open up a terminal window (in Windows, select “Anaconda Prompt” from the start menu). Execute the following commands:
     1. ```bash
