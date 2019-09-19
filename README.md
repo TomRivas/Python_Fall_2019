@@ -1,4 +1,4 @@
-## RC Python Workshop Series (Spring 2019)
+## RC Python Workshop Series (Fall 2019)
 
 ### Instructors:
 Nick Featherstone  
@@ -30,19 +30,17 @@ The lessons in this course are interactive in nature.  In order to participate f
 
 The most straightforward way to install this software is via the Conda environment manager. Please refer to the software_installation.pdf file in this repository for instructions on installing Conda, Python, and the necessary packages.  If you need one-on-one help with the installation process, please drop by the optional installation session.  Alternatively, feel free to send me an email, and we can set up a time to meet with either Daniel or myself.  
 
-### Part 1:  Python Essentials  
+### Schedule
 
 Date       | Topic                                             | Notes 
 -----------|---------------------------------------------------|----------------------
+​          | **_Part 1: Python Essentials_**                   |​
 Sep. 24/25 | Overview, 'Hello World!,' variables and assignment|  
 Oct. 1/2   | Conditionals, functions                           |**Wednesday section in Newton Lab**  
 Oct. 8/9   | Loops, lists, tuples, dictionaries                |**Wednesday section in Newton Lab**  
-Oct. 15/16 | Objects, methods, modules                         |
-Oct. 22/23 | Package management via PiP and Conda              |
-
-### Part 2:  Useful Python Packages  
-Date       | Topic                                             | Notes
------------|---------------------------------------------------|-----------------------
+Oct. 15/16 | Objects, methods, modules                         |  
+Oct. 22/23 | Package management via PiP and Conda              |  
+​          | **_Part2: Useful Python Packages_**               |​
 Oct. 29/30 | Efficient Python programming with NumPy           |**Tuesday section in Newton Lab**  
 Nov. 5/6   | Plotting with Matplotlib                          |**Wednesday section in Newton Lab**  
 Nov. 12/13 | H5Py                                              |
