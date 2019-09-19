@@ -32,8 +32,8 @@ The most straightforward way to install this software is via the Conda environme
 
 ### Schedule
 
-Date         | Topic                                             | Notes 
--------------|---------------------------------------------------|----------------------
+Date         | Topic                                             | Notes
+-------------|---------------------------------------------------|----------------------------------:
 ​            | **_Part 1: Python Essentials_**                   |​
 Sep. 24 & 25 | Overview, 'Hello World!,' variables and assignment|  
 Oct. 1 & 2   | Conditionals, functions                           |**Wednesday section in Newton Lab**  
