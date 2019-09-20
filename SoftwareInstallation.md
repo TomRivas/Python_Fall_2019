@@ -18,7 +18,7 @@ Windows, Mac, and Linux installers are provided, and we have tested all three 64
     
 3. Once the installation is complete, you should see a message indicating that you can access your python installation by typing conda activate idp. If the installation appears to hang after several minutes, but the last file appears to be 100% downloaded, try hitting “enter.” That seems to wrap things up. The last step is to test your installation. To do so, type the following commands:  
     1. ```bash
-       conda activate idp    # just “activate idp” in Windows
+       conda activate idp   
        ```
     2. ```bash 
        python      
