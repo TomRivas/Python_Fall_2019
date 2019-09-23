@@ -29,7 +29,7 @@ Windows, Mac, and Linux installers are provided, and we have tested all three 64
        *__Note:__ If you see Python 2.x.y, you have installed the wrong version of python. Rerun the above command and make sure to say "python=3".*
     
     3. ```python
-       test
+       import numpy
        ```
        Entering this at the Python prompt will import the NumPy module.
     
